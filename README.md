@@ -45,8 +45,7 @@ I enjoy building modern, responsive web applications and continuously improving 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="25" />
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/networkx/networkx-original.svg" width="25" />
+
 
 </p>
 
